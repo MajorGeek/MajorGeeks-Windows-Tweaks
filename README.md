@@ -4,7 +4,8 @@ MajorGeeks Windows Tweaks contains approximately 162 registry, PowerShell, Visua
 One neat thing about MajorGeeks Windows Tweaks is that many of these are hidden, removed, or unavailable settings and features in Windows. You can browse the collection and delete or move any tweaks you like and create a custom collection of your favorite tweaks.
 
 Website - https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html
-Individual files - https://www.majorgeeks.com/mg/sortpopularity/majorgeeks_registry_batch_file_tweaks.html
+
+Browse Tweaks Individually - https://www.majorgeeks.com/mg/sortpopularity/majorgeeks_registry_batch_file_tweaks.html
 
 Most of the tweaks are tested in Windows 10, but many will also work in Windows 7 and 8. As always, be sure to back up your registry first.
 
