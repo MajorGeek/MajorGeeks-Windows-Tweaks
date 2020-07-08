@@ -7,6 +7,8 @@ Website - https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.ht
 
 Browse Tweaks Individually - https://www.majorgeeks.com/mg/sortpopularity/majorgeeks_registry_batch_file_tweaks.html
 
+Video Tutorial - https://www.youtube.com/watch?v=IeaIOGxY0ts&feature=emb_title
+
 Most of the tweaks are tested in Windows 10, but many will also work in Windows 7 and 8. As always, be sure to back up your registry first.
 
 Whenever possible, the file listing pages include directions to make the changes yourself. Every folder contains MajorGeeks Tutorial Link.html to see instructions or details on that particular tweak.
