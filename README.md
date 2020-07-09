@@ -9,6 +9,8 @@ Browse Tweaks Individually - https://www.majorgeeks.com/mg/sortpopularity/majorg
 
 Video Tutorial - https://www.youtube.com/watch?v=IeaIOGxY0ts&feature=emb_title
 
+Releases - https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks/releases/
+
 Most of the tweaks are tested in Windows 10, but many will also work in Windows 7 and 8. As always, be sure to back up your registry first.
 
 Whenever possible, the file listing pages include directions to make the changes yourself. Every folder contains MajorGeeks Tutorial Link.html to see instructions or details on that particular tweak.
