@@ -22,7 +22,7 @@ Click Yes when prompted by Registry Editor.
 
 Click OK when prompted by the Registry Editor.
 
-While this collection is 95% registry files, there are a handful of batch and PowerShell scripts:
+While this collection is 95% registry files, there are a handful of batch and PowerShell scripts.
 
-For batch file, right-click on the batch file and click on Run as administrator.
-For Powershell scripts, right-click and click on Run with Powershell.
+For batch file, right-click on the batch file and click on Run as Administrator.
+For PowerShell scripts, right-click and click on Run with PowerShell.
