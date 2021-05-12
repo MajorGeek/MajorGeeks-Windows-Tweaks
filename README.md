@@ -1,5 +1,5 @@
 # MajorGeeks Windows Tweaks
-MajorGeeks Windows Tweaks contains over 209 registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
+MajorGeeks Windows Tweaks contains over 212 registry, PowerShell, Visual Basic, and batch files to enable tweaks and hidden features in Windows 10, 8, and 7 for any skill level.
 
 One neat thing about MajorGeeks Windows Tweaks is that many of these are hidden, removed, or unavailable settings and features in Windows. You can browse the collection and delete or move any tweaks you like and create a custom collection of your favorite tweaks.
 
