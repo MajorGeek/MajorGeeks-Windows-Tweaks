@@ -13,6 +13,8 @@ Video Tutorial - https://www.youtube.com/watch?v=IeaIOGxY0ts&feature=emb_title
 
 Releases - https://github.com/MajorGeek/MajorGeeks-Windows-Tweaks/releases/
 
+To date, we have released all the scripts as open source; however, our user interface is NOT open source. If you would like to access the whole collection of tweaks and a wickedly sweet interface to browse and apply the tweaks, check out our page here: https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html
+
 Most of the tweaks are tested in Windows 10 & 11, but many will also work in Windows 7 and 8. As always, be sure to back up your registry first.
 
 Whenever possible, the file listing pages include directions to make the changes yourself. Every folder contains MajorGeeks Tutorial Link.html to see instructions or details on that particular tweak.
